@@ -1,0 +1,10 @@
+### File Operations
+
+- read file
+- Edit/ update file
+- append file
+- close file
+
+
+
+

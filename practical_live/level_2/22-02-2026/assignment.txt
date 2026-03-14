@@ -1,0 +1,5 @@
+1. Download below the csv using python
+2. Create a class
+3. create an object of the class and call the obj.Download(URL, path_to_download = "data")
+4. do not use pandas and numpy
+5. use only python libraries

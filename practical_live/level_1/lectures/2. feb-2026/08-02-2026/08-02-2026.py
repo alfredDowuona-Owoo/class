@@ -1,0 +1,7 @@
+print("enter Name: ", end="")
+name = input()
+print("enter email: ", end="")
+email = input()
+print("enter mobile number: ", end="")
+number = input()
+print(name, email, number)

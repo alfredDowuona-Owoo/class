@@ -1,0 +1,5 @@
+full_path_to_file = os.path.join(os.getcwd(), "temp", "dummy_2.txt")
+print(full_path_to_file)
+with open(full_path_to_file) as f:
+    all_data = f.read()
+    print(all_data)

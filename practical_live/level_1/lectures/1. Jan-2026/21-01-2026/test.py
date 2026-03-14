@@ -1,0 +1,7 @@
+name_1 = input("Enter your name : ")
+name_2 = input("Enter your name : ")
+name_3 = input("Enter your name : ")
+name_4 = input("Enter your name : ")
+name_5 = input("Enter your name : ")
+name_6 = input("Enter your name : ")
+print(name_1, name_2, name_3, name_4, name_5, name_6, sep="\n") 

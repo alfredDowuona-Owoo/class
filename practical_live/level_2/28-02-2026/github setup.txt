@@ -1,0 +1,13 @@
+
+
+steps.
+1. go to the project
+2.start tracking ---- git init
+3. add files to track --- git add .
+4. save file with a test --git commit -m "saving because i want to"
+4. Done first time in project - 
+    git branch -M main 
+    git remote add origin URL OF REPO eg.(https://github.com/alfredDowuona-Owoo/Abc.git)
+5. git push -u main -  make updates to the versions
+6. bring online version to environment
+    git clone URL of repo eg.(https://github.com/alfredDowuona-Owoo/Abc.git)

@@ -1,0 +1,6 @@
+### File Operations
+ - new line in dummy 2 txt file
+- read file
+- Edit/ update file
+- append file
+- close file
