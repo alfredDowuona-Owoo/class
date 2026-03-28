@@ -16,3 +16,8 @@ dependencies = [
     "seaborn>=0.13.2",
     "streamlit>=1.19.0",
 ]
+
+[tool.uv.workspace]
+members = [
+    "Mar_26/25-03-2026/DocManagerProject",
+]
