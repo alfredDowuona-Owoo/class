@@ -1,7 +1,7 @@
 import os
 import pymupdf
 
-THUMBNAIL_DIR = os.join.path("storage", "thumbnail")
+THUMBNAIL_DIR = os.path.join("storage", "thumbnail")
 
 class ThumbnailGenerator:
     def generate_thumbnail(self, pdf_path):
