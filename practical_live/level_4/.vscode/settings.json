@@ -3,6 +3,7 @@
         "annot",
         "artefacts",
         "chas",
+        "kmeans",
         "medv",
         "onehotencoding",
         "ptratio"
