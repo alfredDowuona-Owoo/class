@@ -3,9 +3,11 @@
         "annot",
         "artefacts",
         "chas",
+        "colsample",
         "kmeans",
         "medv",
         "onehotencoding",
-        "ptratio"
+        "ptratio",
+        "squarederror"
     ]
 }
